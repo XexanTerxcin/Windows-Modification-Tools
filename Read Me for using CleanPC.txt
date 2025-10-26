@@ -1,0 +1,31 @@
+To Install:
+
+1. Copy the "CleanPC.bat"
+
+2. Press : Win+R 
+
+3. Type : shell:startup
+
+4. Press "Enter" key
+
+5. Paste the "CleanPC.bat"
+
+
+
+
+
+Links :
+
+	Facebook :
+	https://www.facebook.com/SMY.GAMER
+
+	Discord :
+	https://discord.gg/ybb77MvFNZ
+
+	Instagram :
+	https://www.instagram.com/smy_gamer/
+
+	YouTube :
+	http://www.youtube.com/@SMYGAMER
+
+
